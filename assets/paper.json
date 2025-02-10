@@ -1,0 +1,848 @@
+{
+    "Part 1: O1系统复现": [
+        {
+            "paper": "O1 Replication Journey--Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?",
+            "link": "https://arxiv.org/abs/2411.16489",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "huang2024o1"
+        },
+        {
+            "paper": "O1 Replication Journey: A Strategic Progress Report -- Part 1",
+            "link": "https://arxiv.org/abs/2410.18982",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "qin2024o1"
+        },
+        {
+            "paper": "Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions",
+            "link": "https://arxiv.org/abs/2411.14405",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "zhao2024marco"
+        },
+        {
+            "paper": "o1-Coder: an o1 Replication for Coding",
+            "link": "https://arxiv.org/abs/2412.00154",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "zhang2024o1"
+        },
+        {
+            "paper": "Enhancing LLM Reasoning with Reward-guided Tree Search",
+            "link": "https://arxiv.org/abs/2411.11694",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "chen2024enhancing"
+        },
+        {
+            "paper": "Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems",
+            "link": "https://arxiv.org/abs/2412.09413",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "min2024imitate"
+        }
+    ],
+    "Part 2: PRM相关": [
+        {
+            "paper": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+            "link": "https://aclanthology.org/2024.acl-long.510/",
+            "venue": "ACL",
+            "date": "2024-08",
+            "label": "wang2024mathshepherd"
+            },
+            {
+            "paper": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+            "link": "https://openreview.net/forum?id=8rcFOqEud5",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "zhang2024restmcts"
+            },
+        {
+            "paper": "Let's Verify Step by Step.",
+            "link": "https://arxiv.org/abs/2305.20050",
+            "venue": "ICLR",
+            "date": "2024-05",
+            "label": "lightman2023letsverify"
+        },
+        {
+            "paper": "Making Large Language Models Better Reasoners with Step-Aware Verifier",
+            "link": "https://arxiv.org/abs/2206.02336",
+            "venue": "arXiv",
+            "date": "2023-06",
+            "label": "yuan2023stepaware"
+        },
+        {
+            "paper": "Improve Mathematical Reasoning in Language Models by Automated Process Supervision",
+            "link": "https://arxiv.org/abs/2306.05372",
+            "venue": "arXiv",
+            "date": "2023-06",
+            "label": "chen2023automatedprocess"
+        },
+        {
+            "paper": "OVM: Outcome-supervised Value Models for Planning in Mathematical Reasoning",
+            "link": "https://aclanthology.org/2024.findings-naacl.55/",
+            "venue": "ACL Findings",
+            "date": "2024-08",
+            "label": "liu2023ovm"
+        },
+        {
+            "paper": "Solving Math Word Problems with Process and Outcome-Based Feedback",
+            "link": "https://arxiv.org/abs/2211.14275",
+            "venue": "arXiv",
+            "date": "2022-11",
+            "label": "zhang2023processoutcome"
+        },
+        {
+            "paper": "AutoPSV: Automated Process-Supervised Verifier",
+            "link": "https://openreview.net/forum?id=eOAPWWOGs9",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "lu2024autopsv"
+        },
+        {
+            "paper": "Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs",
+            "link": "https://arxiv.org/abs/2406.18629",
+            "venue": "arXiv",
+            "date": "2024-06",
+            "label": "chen2023stepdpo"
+        },
+        {
+            "paper": "ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding",
+            "link": "https://arxiv.org/abs/2501.07861",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "li2025rearter"
+        },
+        {
+            "paper": "The Lessons of Developing Process Reward Models in Mathematical Reasoning.",
+            "link": "https://arxiv.org/abs/2501.07301",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "gao2025lessons"
+        },
+        {
+            "paper": "Outcome-Refining Process Supervision for Code Generation",
+            "link": "https://arxiv.org/abs/2412.15118",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "chen2024outcomerefining"
+        },
+        {
+            "paper": "Free Process Rewards without Process Labels.",
+            "link": "https://arxiv.org/abs/2412.01981",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "yuan2024freeprocess"
+        },
+        {
+            "paper": "PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models.",
+            "link": "https://arxiv.org/abs/2501.03124",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "liu2025prmbench"
+        },
+        {
+            "paper": "ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark.",
+            "link": "https://arxiv.org/abs/2501.01290",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "zhang2024toolcomp"
+        }
+    ],
+    "Part 3: LLM RL Supervise": [
+        {
+            "paper": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
+            "link": "https://arxiv.org/abs/2412.16145",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "wang2024offline"
+        },
+        {
+            "paper": "ReFT: Representation Finetuning for Language Models",
+            "link": "https://aclanthology.org/2024.acl-long.410.pdf",
+            "venue": "ACL",
+            "date": "2024-08",
+            "label": "wu2024reft"
+        },
+        {
+            "paper": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+            "link": "https://arxiv.org/abs/2402.03300",
+            "venue": "arXiv",
+            "date": "2024-02",
+            "label": "lee2024deepseekmath"
+        },
+        {
+            "paper": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2501.12948",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "luong2025deepseekr1"
+        },
+        {
+            "paper": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+            "link": "https://arxiv.org/abs/2501.12599",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "liu2025kimi"
+        },
+        {
+            "paper": "Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search",
+            "link": "https://arxiv.org/abs/2502.02508",
+            "venue": "arXiv",
+            "date": "2025-02",
+            "label": "zhang2025satori"
+        },
+        {
+            "paper": "Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling",
+            "link": "https://arxiv.org/abs/2501.11651",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "wang2025advancing"
+        },
+        {
+            "paper": "Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies",
+            "link": "https://arxiv.org/abs/2501.17030",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "chen2025aisafety"
+        },
+        {
+            "paper": "Does RLHF Scale? Exploring the Impacts From Data, Model, and Method",
+            "link": "https://arxiv.org/abs/2412.06000",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "lee2024rlhf"
+        }
+    ],
+    "Part 4: MCTS/Tree Search相关": [
+        {
+            "paper": "Reasoning with Language Model is Planning with World Model",
+            "link": "https://aclanthology.org/2023.emnlp-main.507/",
+            "venue": "EMNLP",
+            "date": "2023-12",
+            "label": "hao2023rap"
+        },
+        {
+            "paper": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning",
+            "link": "https://arxiv.org/abs/2405.00451",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "zhou2024mctsboost"
+        },
+        {
+            "paper": "Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training",
+            "link": "https://openreview.net/forum?id=PJfc4x2jXY",
+            "venue": "NeurIPS WorkShop",
+            "date": "2023-12",
+            "label": "wang2023alphazero"
+        },
+        {
+            "paper": "Don’t throw away your value model! Generating more preferable text with Value-Guided Monte-Carlo Tree Search decoding",
+            "link": "https://openreview.net/forum?id=kh9Zt2Ldmn#discussion",
+            "venue": "CoLM",
+            "date": "2024-10",
+            "label": "chen2024valuemcts"
+        },
+        {
+            "paper": "Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search",
+            "link": "https://arxiv.org/abs/2412.18319",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "li2024mulberry"
+        },
+        {
+            "paper": "Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning",
+            "link": "https://arxiv.org/abs/2412.17397",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "liu2024intrinsicmcts"
+        },
+        {
+            "paper": "Proposing and solving olympiad geometry with guided tree search",
+            "link": "https://arxiv.org/abs/2412.10673",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "zhang2024geometrymcts"
+        },
+        {
+            "paper": "SPaR: Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models",
+            "link": "https://arxiv.org/abs/2412.11605",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "wang2024spar"
+        },
+        {
+            "paper": "Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning",
+            "link": "https://arxiv.org/abs/2412.09078",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "xu2024forest"
+        },
+        {
+            "paper": "SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation",
+            "link": "https://arxiv.org/abs/2411.11053",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "liu2024sramcts"
+        },
+        {
+            "paper": "MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree",
+            "link": "https://arxiv.org/abs/2411.15645",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "wang2024mcnest"
+        },
+        {
+            "paper": "Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions",
+            "link": "https://arxiv.org/abs/2411.14405",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "zhang2024marcoo1"
+        },
+        {
+            "paper": "GPT-Guided Monte Carlo Tree Search for Symbolic Regression in Financial Fraud Detection",
+            "link": "https://arxiv.org/abs/2411.04459",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "chen2024gptmcts"
+        },
+        {
+            "paper": "CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models",
+            "link": "https://arxiv.org/abs/2411.04329",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "liu2024codetree"
+        },
+        {
+            "paper": "Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination",
+            "link": "https://arxiv.org/abs/2410.17820",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "wang2024treeofthoughts"
+        },
+        {
+            "paper": "TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling",
+            "link": "https://arxiv.org/abs/2410.16033",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "zhou2024treebon"
+        },
+        {
+            "paper": "Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning",
+            "link": "https://arxiv.org/abs/2410.06508",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "li2024selfimprove"
+        },
+        {
+            "paper": "LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning",
+            "link": "https://arxiv.org/abs/2410.02884",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "yang2024llamaberry"
+        },
+        {
+            "paper": "Interpretable Contrastive Monte Carlo Tree Search Reasoning",
+            "link": "https://arxiv.org/abs/2410.01707",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "hu2024interpretablemcts"
+        },
+        {
+            "paper": "MindStar: Enhancing Math Reasoning in Pre-trained LLMs at Inference Time",
+            "link": "https://arxiv.org/abs/2405.16265",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "zhang2024mindstar"
+        },
+        {
+            "paper": "RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation",
+            "link": "https://arxiv.org/abs/2409.09584",
+            "venue": "arXiv",
+            "date": "2024-09",
+            "label": "li2024rethinkmcts"
+        },
+        {
+            "paper": "Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search",
+            "link": "https://arxiv.org/abs/2408.10635",
+            "venue": "arXiv",
+            "date": "2024-08",
+            "label": "zhou2024strategist"
+        },
+        {
+            "paper": "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search",
+            "link": "https://arxiv.org/abs/2405.15383",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "chen2024codeworldmcts"
+        },
+        {
+            "paper": "Uncertainty-Guided Optimization on Large Language Model Search Trees",
+            "link": "https://arxiv.org/abs/2407.03951",
+            "venue": "arXiv",
+            "date": "2024-07",
+            "label": "yang2024uncertaintymcts"
+        },
+        {
+            "paper": "Tree Search for Language Model Agents",
+            "link": "https://arxiv.org/abs/2407.01476",
+            "venue": "arXiv",
+            "date": "2024-07",
+            "label": "wu2024treesearchlm"
+        },
+        {
+            "paper": "LiteSearch: Efficacious Tree Search for LLM",
+            "link": "https://arxiv.org/abs/2407.00320",
+            "venue": "arXiv",
+            "date": "2024-07",
+            "label": "chen2024litesearch"
+        },
+        {
+            "paper": "Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B",
+            "link": "https://arxiv.org/abs/2406.07394",
+            "venue": "arXiv",
+            "date": "2024-06",
+            "label": "liu2024accessing"
+        },
+        {
+            "paper": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+            "link": "https://arxiv.org/abs/2406.03816",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "wang2024restmcts"
+        },
+        {
+            "paper": "On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10870057/",
+            "venue": "IEEE TAC",
+            "date": "2025-01",
+            "label": "zhang2025mcts"
+        },
+        {
+            "paper": "AlphaMath Almost Zero: process Supervision without process",
+            "link": "https://arxiv.org/abs/2405.03553",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "chen2024alphamath"
+        },
+        {
+            "paper": "Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning",
+            "link": "https://arxiv.org/abs/2405.00451",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "liu2024mctsboost"
+        },
+        {
+            "paper": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping",
+            "link": "https://openreview.net/forum?id=rviGTsl0oy",
+            "venue": "ICLR WorkShop",
+            "date": "2024-05",
+            "label": "wang2024beyonda"
+        },
+        {
+            "paper": "Stream of Search (SoS): Learning to Search in Language",
+            "link": "https://arxiv.org/abs/2404.03683",
+            "venue": "arXiv",
+            "date": "2024-04",
+            "label": "yang2024sos"
+        },
+        {
+            "paper": "LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models",
+            "link": "https://openreview.net/forum?id=h1mvwbQiXR",
+            "venue": "ICLR WorkShop",
+            "date": "2024-05",
+            "label": "zhang2024llmreasoners"
+        },
+        {
+            "paper": "Search-o1: Agentic Search-Enhanced Large Reasoning Models",
+            "link": "https://arxiv.org/abs/2501.05366",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "li2025searcho1"
+        },
+        {
+            "paper": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
+            "link": "https://arxiv.org/abs/2501.04519",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "chen2025rstar"
+        },
+        {
+            "paper": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",
+            "link": "https://arxiv.org/abs/2412.18925",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "zhang2024huatuo"
+        },
+        {
+            "paper": "AFlow: Automating Agentic Workflow Generation",
+            "link": "https://arxiv.org/abs/2410.10762",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "wang2024aflow"
+        },
+        {
+            "paper": "MAKING PPO EVEN BETTER: VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING",
+            "link": "https://arxiv.org/abs/2309.15028",
+            "venue": "arXiv",
+            "date": "2023-09",
+            "label": "liu2023ppo"
+        },
+        {
+            "paper": "Large Language Models as Commonsense Knowledge for Large-Scale Task Planning",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/65a39213d7d0e1eb5d192aa77e77eeb7-Abstract-Conference.html",
+            "venue": "NeurIPS",
+            "date": "2023-12",
+            "label": "wang2023commonsense"
+        },
+        {
+            "paper": "ALPHAZERO-LIKE TREE-SEARCH CAN GUIDE LARGE LANGUAGE MODEL DECODING AND TRAINING",
+            "link": "https://openreview.net/forum?id=PJfc4x2jXY",
+            "venue": "NeurIPS WorkShop",
+            "date": "2023-12",
+            "label": "li2023alphazero"
+        },
+        {
+            "paper": "Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing",
+            "link": "https://arxiv.org/abs/2404.12253",
+            "venue": "arXiv",
+            "date": "2024-04",
+            "label": "chen2024selfimprove"
+        }
+    ],
+    "Part 5: Self-Training/Improve": [
+        {
+            "paper": "STaR: Bootstrapping Reasoning With Reasoning",
+            "link": "https://arxiv.org/abs/2203.14465",
+            "venue": "NeurIPS2022",
+            "date": "2022-05",
+            "label": "zelikman2022star"
+        },
+        {
+            "paper": "ReST: Reinforced Self-Training for Language Modeling",
+            "link": "https://arxiv.org/abs/2308.08998",
+            "venue": "arXiv",
+            "date": "2023-08",
+            "label": "gulcehre2023rest"
+        },
+        {
+            "paper": "ReST-EM: Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models",
+            "link": "https://openreview.net/forum?id=lNAyUngGFK",
+            "venue": "TMLR",
+            "date": "2024-09",
+            "label": "yang2024restem"
+        },
+        {
+            "paper": "Expert Iteration: Thinking Fast and Slow with Deep Learning and Tree Search",
+            "link": "https://proceedings.neurips.cc/paper/2017/hash/d8e1344e27a5b08cdfd5d027d9b8d6de-Abstract.html",
+            "venue": "NeurIPS",
+            "date": "2017-12",
+            "label": "anthony2017expert"
+        },
+        {
+            "paper": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+            "link": "https://arxiv.org/abs/2403.09629",
+            "venue": "arXiv",
+            "date": "2024-03",
+            "label": "zelikman2024quietstar"
+        },
+        {
+            "paper": "V-star: Training Verifiers for Self-Taught Reasoners",
+            "link": "https://arxiv.org/abs/2402.06457",
+            "venue": "arXiv",
+            "date": "2024-02",
+            "label": "liu2024vstar"
+        },
+        {
+            "paper": "Interactive Evolution: A Neural-Symbolic Self-Training Framework for Large Language Models",
+            "link": "https://arxiv.org/abs/2406.11736",
+            "venue": "arXiv",
+            "date": "2024-06",
+            "label": "wang2024interactive"
+        },
+        {
+            "paper": "ReFT: Representation Finetuning for Language Models",
+            "link": "https://aclanthology.org/2024.acl-long.410.pdf",
+            "venue": "ACL",
+            "date": "2024-08",
+            "label": "wu2024reft"
+        },
+        {
+            "paper": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+            "link": "https://arxiv.org/abs/2406.03816",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "chen2024restmcts"
+        },
+        {
+            "paper": "Recursive Introspection: Teaching Language Model Agents How to Self-Improve",
+            "link": "https://openreview.net/forum?id=DRC9pZwBwR",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "zhang2024recursive"
+        },
+        {
+            "paper": "B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoner",
+            "link": "https://arxiv.org/abs/2412.17256",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "he2024bstar"
+        },
+        {
+            "paper": "Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math)",
+            "link": "https://arxiv.org/abs/2501.04519",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "xu2025rstar"
+        },
+        {
+            "paper": "Enhancing Large Vision Language Models with Self-Training on Image Comprehension",
+            "link": "https://arxiv.org/abs/2405.19716",
+            "venue": "arXiv",
+            "date": "2024-05",
+            "label": "li2024enhancing"
+        },
+        {
+            "paper": "Self-Refine: Iterative Refinement with Self-Feedback",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html",
+            "venue": "NeurIPS",
+            "date": "2023-12",
+            "label": "madaan2023selfrefine"
+        },
+        {
+            "paper": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+            "link": "https://openreview.net/forum?id=Sx038qxjek",
+            "venue": "ICLR",
+            "date": "2024-05",
+            "label": "zhang2024critic"
+        }
+    ],
+    "Part 6: 特殊Action/反思相关": [
+        {
+            "paper": "Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers",
+            "link": "https://arxiv.org/abs/2408.06195",
+            "venue": "arXiv",
+            "date": "2024-08",
+            "label": "zheng2024mutual"
+        },
+        {
+            "paper": "Reflection-Tuning: An Approach for Data Recycling",
+            "link": "https://arxiv.org/abs/2310.11716",
+            "venue": "arXiv",
+            "date": "2023-10",
+            "label": "li2024reflection"
+        },
+        {
+            "paper": "Vision-Language Models Can Self-Improve Reasoning via Reflection",
+            "link": "https://arxiv.org/abs/2411.00855",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "cheng2024vision"
+        },
+        {
+            "paper": "HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs",
+            "link": "https://arxiv.org/abs/2412.18925",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "zhang2024huatuo"
+        },
+        {
+            "paper": "AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning",
+            "link": "https://arxiv.org/abs/2411.11930",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "liu2024atomthink"
+        },
+        {
+            "paper": "LLaVA-o1: Let Vision Language Models Reason Step-by-Step",
+            "link": "https://arxiv.org/abs/2411.10440",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "xu2024llava"
+        }
+    ],
+    "Part 7: 高效System2：system1/system2 balance; hidden CoT; CoT压缩": [
+        {
+        "paper": "Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking",
+        "link": "https://arxiv.org/abs/2501.01306",
+        "venue": "arXiv",
+        "date": "2025-01",
+        "label": "cheng2025think"
+        },
+        {
+        "paper": "Token-Budget-Aware LLM Reasoning",
+        "link": "https://arxiv.org/abs/2412.18547",
+        "venue": "arXiv",
+        "date": "2024-12",
+        "label": "wang2024token"
+        },
+        {
+        "paper": "B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoner",
+        "link": "https://arxiv.org/abs/2412.17256",
+        "venue": "arXiv",
+        "date": "2024-12",
+        "label": "he2024bstar"
+        },
+        {
+        "paper": "Guiding Language Model Reasoning with Planning Tokens",
+        "link": "https://arxiv.org/abs/2310.05707",
+        "venue": "CoLM",
+        "date": "2024-10",
+        "label": "wang2023guiding"
+        },
+        {
+        "paper": "DynaThink: Fast or Slow? A Dynamic Decision-Making Framework for Large Language Models",
+        "link": "https://arxiv.org/abs/2407.01009",
+        "venue": "EMNLP",
+        "date": "2024-12",
+        "label": "li2024dynathink"
+        },
+        {
+        "paper": "Training Large Language Models to Reason in a Continuous Latent Space",
+        "link": "https://arxiv.org/abs/2412.06769",
+        "venue": "arXiv",
+        "date": "2024-12",
+        "label": "chen2024training"
+        },
+        {
+        "paper": "O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning",
+        "link": "https://arxiv.org/abs/2501.12570",
+        "venue": "arXiv",
+        "date": "2025-01",
+        "label": "zhang2025o1pruner"
+        }
+    ],
+    "Part 8: Slow-Fast系统的可解释性": [
+        {
+            "paper": "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective",
+            "link": "https://arxiv.org/abs/2410.23743",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "li2024whathappened"
+        },
+        {
+            "paper": "When a Language Model is Optimized for Reasoning, Does It Still Show Embers of Autoregression? An Analysis of OpenAI o1",
+            "link": "https://arxiv.org/abs/2410.01792",
+            "venue": "arXiv",
+            "date": "2024-10",
+            "label": "zhang2024embers"
+        },
+        {
+            "paper": "Agents Thinking Fast and Slow: A Talker-Reasoner Architecture",
+            "link": "https://openreview.net/forum?id=xPhcP6rbI4",
+            "venue": "NeurIPS WorkShop",
+            "date": "2024-12",
+            "label": "wang2024agents"
+        },
+        {
+            "paper": "System 2 Attention (is something you might need too)",
+            "link": "https://arxiv.org/abs/2311.11829",
+            "venue": "arXiv",
+            "date": "2023-11",
+            "label": "chen2023system2"
+        },
+        {
+            "paper": "Distilling System 2 into System 1",
+            "link": "https://arxiv.org/abs/2407.06023",
+            "venue": "arXiv",
+            "date": "2024-07",
+            "label": "liu2024distilling"
+        },
+        {
+            "paper": "The Impact of Reasoning Step Length on Large Language Models",
+            "link": "https://arxiv.org/abs/2401.04925",
+            "venue": "ACL Findings",
+            "date": "2024-08",
+            "label": "sun2024impact"
+        }
+    ],
+    "Part 9: 多模态/Agent相关的Slow Fast System": [
+        {
+            "paper": "AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning",
+            "link": "https://arxiv.org/abs/2411.11930",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "liu2024atomthink"
+        },
+        {
+            "paper": "LLaVA-o1: Let Vision Language Models Reason Step-by-Step",
+            "link": "https://arxiv.org/abs/2411.10440",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "xu2024llava"
+        },
+        {
+            "paper": "Visual Agents as Fast and Slow Thinkers",
+            "link": "https://openreview.net/forum?id=ncCuiD3KJQ",
+            "venue": "ICLR2025",
+            "date": "2025-01",
+            "label": "gao2025visualagents"
+        },
+        {
+            "paper": "Slow Perception: Let's Perceive Geometric Figures Step-by-Step",
+            "link": "https://arxiv.org/abs/2412.20631",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "wei2024slow"
+        },
+        {
+            "paper": "Virgo: A Preliminary Exploration on Reproducing o1-like MLLM",
+            "link": "https://arxiv.org/abs/2501.01904",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "du2025virgo"
+        },
+        {
+            "paper": "Scaling Inference-Time Search With Vision Value Model for Improved Visual Comprehension",
+            "link": "https://arxiv.org/pdf/2412.03704",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "feng2024scaling"
+        },
+        {
+            "paper": "Vision-Language Models Can Self-Improve Reasoning via Reflection",
+            "link": "https://arxiv.org/abs/2411.00855",
+            "venue": "arXiv",
+            "date": "2024-11",
+            "label": "cheng2024vision"
+        },
+        {
+            "paper": "Diving into Self-Evolving Training for Multimodal Reasoning",
+            "link": "https://arxiv.org/abs/2412.17451",
+            "venue": "ICLR2025",
+            "date": "2024-12",
+            "label": "zhao2024selfevolving"
+        }
+    ],
+    "Part 10: LLM-Driven SRS System Benchmark": [
+        {
+            "paper": "A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?",
+            "link": "https://arxiv.org/abs/2409.15277",
+            "venue": "arXiv",
+            "date": "2024-09",
+            "label": "tu2024preliminary"
+        },
+        {
+            "paper": "MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs",
+            "link": "https://openreview.net/forum?id=GN2qbxZlni",
+            "venue": "NeurIPS",
+            "date": "2024-12",
+            "label": "li2024mrben"
+        },
+        {
+            "paper": "PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models",
+            "link": "https://arxiv.org/abs/2501.03124",
+            "venue": "arXiv",
+            "date": "2025-01",
+            "label": "song2025prmbench"
+        },
+        {
+            "paper": "Do NOT Think That Much for 2+3=? On the Overthinking of o1-like LLMs",
+            "link": "https://arxiv.org/abs/2412.21187",
+            "venue": "arXiv",
+            "date": "2024-12",
+            "label": "huang2024overthinking"
+        }
+    ]
+}
