@@ -1,17 +1,20 @@
 # Awesome-Slow-Reason-System
 
-[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
+[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
 
-Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in Slow-Thinking Reasoning Systems". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/2502.xxxxx).
-
-## 📢 Latest News
+## 📢 Updates
 
 - **2025.02**: We released a survey paper "[The o1 Era: Recent Advances in Slow-thinkingReasoning Systems](https://arxiv.org/pdf/2502.xxxxx)". Feel free to cite or open pull requests.
 
+## 👀 Overview
+
+Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in Slow-Thinking Reasoning Systems". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/2502.xxxxx).
 
 ## 📒 Table of Contents
 
-## Part 1: O1系统复现
+## Part 1: O1 Replication
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems](https://arxiv.org/abs/2412.09413)|arXiv|2024-12|
@@ -20,7 +23,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://arxiv.org/abs/2411.14405)|arXiv|2024-11|
 |[O1 Replication Journey--Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?](https://arxiv.org/abs/2411.16489)|arXiv|2024-11|
 |[O1 Replication Journey: A Strategic Progress Report -- Part 1](https://arxiv.org/abs/2410.18982)|arXiv|2024-10|
-## Part 2: PRM相关
+## Part 2: Process Reward Models 
 |Title|Venue|Date|
 |:---|:---|:---|
 |[PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models.](https://arxiv.org/abs/2501.03124)|arXiv|2025-01|
@@ -38,7 +41,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/abs/2306.05372)|arXiv|2023-06|
 |[Making Large Language Models Better Reasoners with Step-Aware Verifier](https://arxiv.org/abs/2206.02336)|arXiv|2023-06|
 |[Solving Math Word Problems with Process and Outcome-Based Feedback](https://arxiv.org/abs/2211.14275)|arXiv|2022-11|
-## Part 3: LLM RL Supervise
+## Part 3: Reinforcement Learning
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)|arXiv|2025-02|
@@ -50,7 +53,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)|arXiv|2024-12|
 |[ReFT: Representation Finetuning for Language Models](https://aclanthology.org/2024.acl-long.410.pdf)|ACL|2024-08|
 |[Deepseekmath: Pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300)|arXiv|2024-02|
-## Part 4: MCTS/Tree Search相关
+## Part 4: MCTS/Tree Search
 |Title|Venue|Date|
 |:---|:---|:---|
 |[On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes](https://ieeexplore.ieee.org/abstract/document/10870057/)|IEEE TAC|2025-01|
@@ -95,7 +98,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[ALPHAZERO-LIKE TREE-SEARCH CAN GUIDE LARGE LANGUAGE MODEL DECODING AND TRAINING](https://openreview.net/forum?id=PJfc4x2jXY)|NeurIPS WorkShop|2023-12|
 |[Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://openreview.net/forum?id=PJfc4x2jXY)|NeurIPS WorkShop|2023-12|
 |[MAKING PPO EVEN BETTER: VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING](https://arxiv.org/abs/2309.15028)|arXiv|2023-09|
-## Part 5: Self-Training/Improve
+## Part 5: Self-Training / Self-Improve
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math)](https://arxiv.org/abs/2501.04519)|arXiv|2025-01|
@@ -113,7 +116,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[ReST: Reinforced Self-Training for Language Modeling](https://arxiv.org/abs/2308.08998)|arXiv|2023-08|
 |[STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)|NeurIPS2022|2022-05|
 |[Expert Iteration: Thinking Fast and Slow with Deep Learning and Tree Search](https://proceedings.neurips.cc/paper/2017/hash/d8e1344e27a5b08cdfd5d027d9b8d6de-Abstract.html)|NeurIPS|2017-12|
-## Part 6: 特殊Action/反思相关
+## Part 6: Reflection
 |Title|Venue|Date|
 |:---|:---|:---|
 |[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)|arXiv|2024-12|
@@ -122,7 +125,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855)|arXiv|2024-11|
 |[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)|arXiv|2024-08|
 |[Reflection-Tuning: An Approach for Data Recycling](https://arxiv.org/abs/2310.11716)|arXiv|2023-10|
-## Part 7: 高效System2：system1/system2 balance; hidden CoT; CoT压缩
+## Part 7: Efficient System2：system1-system2 balance; hidden CoT; CoT Compression
 |Title|Venue|Date|
 |:---|:---|:---|
 |[O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)|arXiv|2025-01|
@@ -132,7 +135,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547)|arXiv|2024-12|
 |[Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)|arXiv|2024-12|
 |[Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/abs/2310.05707)|CoLM|2024-10|
-## Part 8: Slow-Fast系统的可解释性
+## Part 8: Explanability
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://openreview.net/forum?id=xPhcP6rbI4)|NeurIPS WorkShop|2024-12|
@@ -141,7 +144,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925)|ACL Findings|2024-08|
 |[Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023)|arXiv|2024-07|
 |[System 2 Attention (is something you might need too)](https://arxiv.org/abs/2311.11829)|arXiv|2023-11|
-## Part 9: 多模态/Agent相关的Slow Fast System
+## Part 9: Multimodal Agent related Slow-Fast System
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Visual Agents as Fast and Slow Thinkers](https://openreview.net/forum?id=ncCuiD3KJQ)|ICLR2025|2025-01|
@@ -152,7 +155,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning](https://arxiv.org/abs/2411.11930)|arXiv|2024-11|
 |[LLaVA-o1: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)|arXiv|2024-11|
 |[Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855)|arXiv|2024-11|
-## Part 10: LLM-Driven SRS System Benchmark
+## Part 10: Benchmark and Datasets
 |Title|Venue|Date|
 |:---|:---|:---|
 |[PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/abs/2501.03124)|arXiv|2025-01|
