@@ -1,46 +1,3 @@
-# Awesome Slow Reasoning System
-
-[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
-[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
-[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
-
-<!-- omit in toc -->
-## 📢 Updates
-
-- **2025.02**: We released a survey paper "[The o1 Era: Recent Advances in Slow-thinking Reasoning Systems](https://arxiv.org/pdf/2502.xxxxx)". Feel free to cite or open pull requests.
-
-<!-- omit in toc -->
-## 👀 Introduction
-
-Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in Slow-Thinking Reasoning Systems". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/2502.xxxxx).
-
-Achieving human-level intelligence requires enhancing the transition from System 1 (fast, intuitive) to System 2 (slow, deliberate) reasoning. While foundational Large Language Models (LLMs) have made significant strides, they still fall short of human-like reasoning in complex tasks. Recent reasoning LLMs, like OpenAI’s o1, have demonstrated expert-level performance in domains such as mathematics and coding, resembling System 2 thinking. This survey explores the development of reasoning LLMs, their foundational technologies, benchmarks, and future directions. We maintain an up-to-date GitHub repository to track the latest developments in this rapidly evolving field.
-
-![image](./assets/develope.jpg)
-
-This image highlights the progression of AI systems, emphasizing the shift from rapid, intuitive approaches to deliberate, reasoning-driven models. It shows how AI has evolved to handle a broader range of real-world challenges.
-
-![image](./assets/timeline.jpg)
-
-This timeline tracks the development of reasoning LLMs, focusing on the evolution of datasets, foundational technologies, and the release of both commercial and open-source projects. Our starting point is OpenAI's SuperAlign technology report from November 2023.
-
-<!-- omit in toc -->
-## 📒 Table of Contents
-
-- [Awesome Slow Reasoning System](#awesome-slow-reasoning-system)
-  - [Part 1: O1 Replication](#part-1-o1-replication)
-  - [Part 2: Process Reward Models](#part-2-process-reward-models)
-  - [Part 3: Reinforcement Learning](#part-3-reinforcement-learning)
-  - [Part 4: MCTS/Tree Search](#part-4-mctstree-search)
-  - [Part 5: Self-Training / Self-Improve](#part-5-self-training--self-improve)
-  - [Part 6: Reflection](#part-6-reflection)
-  - [Part 7: Efficient System2](#part-7-efficient-system2)
-  - [Part 8: Explainability](#part-8-explainability)
-  - [Part 9: Multimodal Agent related Slow-Fast System](#part-9-multimodal-agent-related-slow-fast-system)
-  - [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
-
-
 ## Part 1: O1 Replication
 * Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems [[Paper]](https://arxiv.org/abs/2412.09413) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * o1-Coder: an o1 Replication for Coding [[Paper]](https://arxiv.org/abs/2412.00154) ![](https://img.shields.io/badge/arXiv-2024.12-red)
@@ -169,16 +126,3 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs [[Paper]](https://openreview.net/forum?id=GN2qbxZlni) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 * Do NOT Think That Much for 2+3=? On the Overthinking of o1-like LLMs [[Paper]](https://arxiv.org/abs/2412.21187) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor? [[Paper]](https://arxiv.org/abs/2409.15277) ![](https://img.shields.io/badge/arXiv-2024.09-red)
-
-
-
-<!-- omit in toc -->
-## ⭐ Star History
-
-<a href="https://star-history.com/#zzli2022/Awesome-Slow-Reason-System&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date" />
- </picture>
-</a>

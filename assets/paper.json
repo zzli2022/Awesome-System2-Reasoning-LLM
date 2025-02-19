@@ -1,5 +1,5 @@
 {
-    "Part 1: O1系统复现": [
+    "Part 1: O1 Replication": [
         {
             "paper": "O1 Replication Journey--Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?",
             "link": "https://arxiv.org/abs/2411.16489",
@@ -43,7 +43,7 @@
             "label": "min2024imitate"
         }
     ],
-    "Part 2: PRM相关": [
+    "Part 2: Process Reward Models": [
         {
             "paper": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
             "link": "https://aclanthology.org/2024.acl-long.510/",
@@ -150,7 +150,7 @@
             "label": "zhang2024toolcomp"
         }
     ],
-    "Part 3: LLM RL Supervise": [
+    "Part 3: Reinforcement Learning": [
         {
             "paper": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
             "link": "https://arxiv.org/abs/2412.16145",
@@ -215,7 +215,7 @@
             "label": "lee2024rlhf"
         }
     ],
-    "Part 4: MCTS/Tree Search相关": [
+    "Part 4: MCTS/Tree Search": [
         {
             "paper": "Reasoning with Language Model is Planning with World Model",
             "link": "https://aclanthology.org/2023.emnlp-main.507/",
@@ -511,7 +511,7 @@
             "label": "chen2024selfimprove"
         }
     ],
-    "Part 5: Self-Training/Improve": [
+    "Part 5: Self-Training / Self-Improve": [
         {
             "paper": "STaR: Bootstrapping Reasoning With Reasoning",
             "link": "https://arxiv.org/abs/2203.14465",
@@ -618,7 +618,7 @@
             "label": "zhang2024critic"
         }
     ],
-    "Part 6: 特殊Action/反思相关": [
+    "Part 6: Reflection": [
         {
             "paper": "Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers",
             "link": "https://arxiv.org/abs/2408.06195",
@@ -662,7 +662,7 @@
             "label": "xu2024llava"
         }
     ],
-    "Part 7: 高效System2：system1/system2 balance; hidden CoT; CoT压缩": [
+    "Part 7: Efficient System2": [
         {
         "paper": "Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking",
         "link": "https://arxiv.org/abs/2501.01306",
@@ -713,7 +713,7 @@
         "label": "zhang2025o1pruner"
         }
     ],
-    "Part 8: Slow-Fast系统的可解释性": [
+    "Part 8: Explainability": [
         {
             "paper": "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective",
             "link": "https://arxiv.org/abs/2410.23743",
@@ -757,7 +757,7 @@
             "label": "sun2024impact"
         }
     ],
-    "Part 9: 多模态/Agent相关的Slow Fast System": [
+    "Part 9: Multimodal Agent related Slow-Fast System": [
         {
             "paper": "AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning",
             "link": "https://arxiv.org/abs/2411.11930",
@@ -775,7 +775,7 @@
         {
             "paper": "Visual Agents as Fast and Slow Thinkers",
             "link": "https://openreview.net/forum?id=ncCuiD3KJQ",
-            "venue": "ICLR2025",
+            "venue": "ICLR",
             "date": "2025-01",
             "label": "gao2025visualagents"
         },
@@ -810,12 +810,12 @@
         {
             "paper": "Diving into Self-Evolving Training for Multimodal Reasoning",
             "link": "https://arxiv.org/abs/2412.17451",
-            "venue": "ICLR2025",
-            "date": "2024-12",
+            "venue": "ICLR",
+            "date": "2025-01",
             "label": "zhao2024selfevolving"
         }
     ],
-    "Part 10: LLM-Driven SRS System Benchmark": [
+    "Part 10: Benchmark and Datasets": [
         {
             "paper": "A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?",
             "link": "https://arxiv.org/abs/2409.15277",

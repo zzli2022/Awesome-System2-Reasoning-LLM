@@ -138,6 +138,46 @@ class Utility:
                 raise TypeError(f"Unexpected type: {type(value)}")
         return current_table_str
 
+    @staticmethod
+    def generate_list_with_title(
+        title: str, title_level: int, paper_information_list: list[PaperInformation]
+    ) -> str:
+        result_str = Utility.generate_title_with_level(title, title_level)
+        for paper_information in paper_information_list:
+            badge_color = "blue"
+            if "arxiv" in paper_information.link.lower():
+                badge_color = "red"
+                badge_text = f"arXiv-{paper_information.date.replace('-', '.')}"
+            else:
+                venue = paper_information.venue.replace(" ", "_")
+                year = paper_information.date.split("-")[0]
+                badge_text = f"{venue}-{year}"
+            result_str += (
+                f"* {paper_information.paper} [[Paper]]({paper_information.link}) "
+                f"![](https://img.shields.io/badge/{badge_text}-{badge_color})\n"
+            )
+        return result_str
+
+    @staticmethod
+    def generate_all_list(
+        paper_dict: dict, topmost_list_level: int, current_list_str: str
+    ) -> str:
+        for key, value in paper_dict.items():
+            if isinstance(value, dict):
+                current_list_str += Utility.generate_title_with_level(
+                    key, topmost_list_level
+                )
+                current_list_str = Utility.generate_all_list(
+                    value, topmost_list_level + 1, current_list_str
+                )
+            elif isinstance(value, list):
+                current_list_str += Utility.generate_list_with_title(
+                    key, topmost_list_level, value
+                )
+            else:
+                raise TypeError(f"Unexpected type: {type(value)}")
+        return current_list_str
+
 
 def main():
     raw_paper_dict = json.load(open("./assets/paper.json", "r"))
@@ -146,8 +186,11 @@ def main():
         raw_paper_dict, paper_information_list
     )
     all_table_str = Utility.generate_all_table(processed_paper_dict, 0, "")
-    with open("table.md", "w") as f:
+    with open("./src/table.md", "w") as f:
         f.write(all_table_str)
+    all_list_str = Utility.generate_all_list(processed_paper_dict, 0, "")
+    with open("./src/list.md", "w") as f:
+        f.write(all_list_str)
 
 
 if __name__ == "__main__":
