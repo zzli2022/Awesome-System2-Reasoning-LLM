@@ -1,4 +1,4 @@
-# Awesome Slow Reasoning System
+# Awesome-System-2-AI
 
 [![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
