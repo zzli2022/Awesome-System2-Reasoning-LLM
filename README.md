@@ -1,18 +1,32 @@
-# Awesome-Slow-Reason-System
+# Awesome Slow Reasoning System
 
 [![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
 [![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/zzli2022/Awesome-Slow-Reason-System/blob/main/CONTRIBUTING.md)
 
 ## 📢 Updates
 
-- **2025.02**: We released a survey paper "[The o1 Era: Recent Advances in Slow-thinkingReasoning Systems](https://arxiv.org/pdf/2502.xxxxx)". Feel free to cite or open pull requests.
+- **2025.02**: We released a survey paper "[The o1 Era: Recent Advances in Slow-thinking Reasoning Systems](https://arxiv.org/pdf/2502.xxxxx)". Feel free to cite or open pull requests.
 
 ## 👀 Overview
 
 Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in Slow-Thinking Reasoning Systems". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/2502.xxxxx).
 
+
+
 ## 📒 Table of Contents
+
+- [Part 1: O1 Replication](#part-1-o1-replication)
+- [Part 2: Process Reward Models](#part-2-process-reward-models)
+- [Part 3: Reinforcement Learning](#part-3-reinforcement-learning)
+- [Part 4: MCTS/Tree Search](#part-4-mctstree-search)
+- [Part 5: Self-Training / Self-Improve](#part-5-self-training--self-improve)
+- [Part 6: Reflection](#part-6-reflection)
+- [Part 7: Efficient System2](#part-7-efficient-system2)
+- [Part 8: Explainability](#part-8-explainability)
+- [Part 9: Multimodal Agent Related Slow-Fast System](#part-9-multimodal-agent-related-slow-fast-system)
+- [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
 
 ## Part 1: O1 Replication
 |Title|Venue|Date|
@@ -125,7 +139,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855)|arXiv|2024-11|
 |[Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)|arXiv|2024-08|
 |[Reflection-Tuning: An Approach for Data Recycling](https://arxiv.org/abs/2310.11716)|arXiv|2023-10|
-## Part 7: Efficient System2：system1-system2 balance; hidden CoT; CoT Compression
+## Part 7: Efficient System2
 |Title|Venue|Date|
 |:---|:---|:---|
 |[O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)|arXiv|2025-01|
@@ -135,7 +149,7 @@ Welcome to the repository for our survey paper, "The o1 Era: Recent Advances in 
 |[Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547)|arXiv|2024-12|
 |[Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)|arXiv|2024-12|
 |[Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/abs/2310.05707)|CoLM|2024-10|
-## Part 8: Explanability
+## Part 8: Explainability
 |Title|Venue|Date|
 |:---|:---|:---|
 |[Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://openreview.net/forum?id=xPhcP6rbI4)|NeurIPS WorkShop|2024-12|
