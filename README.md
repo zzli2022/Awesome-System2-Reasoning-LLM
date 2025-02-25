@@ -17,11 +17,12 @@ Welcome to the repository for our survey paper, "From System 1 to System 2: A Su
 
 Achieving human-level intelligence requires enhancing the transition from System 1 (fast, intuitive) to System 2 (slow, deliberate) reasoning. While foundational Large Language Models (LLMs) have made significant strides, they still fall short of human-like reasoning in complex tasks. Recent reasoning LLMs, like OpenAI’s o1, have demonstrated expert-level performance in domains such as mathematics and coding, resembling System 2 thinking. This survey explores the development of reasoning LLMs, their foundational technologies, benchmarks, and future directions. We maintain an up-to-date GitHub repository to track the latest developments in this rapidly evolving field.
 
+
 ![image](./assets/develope.jpg)
 
 This image highlights the progression of AI systems, emphasizing the shift from rapid, intuitive approaches to deliberate, reasoning-driven models. It shows how AI has evolved to handle a broader range of real-world challenges.
 
-![image](./assets/timeline.jpg)
+![image](./assets/timeline.png)
 
 This timeline tracks the development of reasoning LLMs, focusing on the evolution of datasets, foundational technologies, and the release of both commercial and open-source projects. Our starting point is OpenAI's SuperAlign technology report from November 2023.
 
