@@ -132,6 +132,9 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * MAKING PPO EVEN BETTER: VALUE-GUIDED MONTE-CARLO TREE SEARCH DECODING [[Paper]](https://arxiv.org/abs/2309.15028) ![](https://img.shields.io/badge/arXiv-2023.09-red)
 * Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2502.11169) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models [[Paper]](https://arxiv.org/abs/2502.11881) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Fine-grained Conversational Decoding via Isotropic and Proximal Search [[Paper]](https://aclanthology.org/2023.emnlp-main.5/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
+* Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata [[Paper]](https://aclanthology.org/2024.naacl-short.42/) ![](https://img.shields.io/badge/NAACL-2024-blue)
+* Look-back Decoding for Open-Ended Text Generation [[Paper]](https://aclanthology.org/2023.emnlp-main.66/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
 ## Part 5: Self-Training / Self-Improve
 * Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math) [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search [[Paper]](https://arxiv.org/abs/2406.03816) ![](https://img.shields.io/badge/arXiv-2024.12-red)
@@ -152,6 +155,12 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * Enabling Scalable Oversight via Self-Evolving Critic [[Paper]](https://arxiv.org/abs/2501.05727) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * S<sup>2</sup>R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning [[Paper]](https://www.arxiv.org/abs/2502.12853) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * ProgCo: Program Helps Self-Correction of Large Language Models [[Paper]](https://arxiv.org/abs/2501.01264) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Self-Refine: Iterative Refinement with Self-Feedback [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-blue)
+* SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning [[Paper]](https://openreview.net/forum?id=pTHfApDakA) ![](https://img.shields.io/badge/ICLR_WorkShop-2024-blue)
+* CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing [[Paper]](https://openreview.net/forum?id=Sx038qxjek) ![](https://img.shields.io/badge/ICLR_WorkShop-2024-blue)
+* Large Language Models are Better Reasoners with Self-Verification [[Paper]](/aclanthology.org/2023.findings-emnlp.167/) ![](https://img.shields.io/badge/ACL_Findings-2023-blue)
+* Self-Evaluation Guided Beam Search for Reasoning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81fde95c4dc79188a69ce5b24d63010b-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-blue)
+* Learning From Correctness Without Prompting Makes LLM Efficient Reasoner [[Paper]](https://openreview.net/forum?id=dcbNzhVVQj#discussion) ![](https://img.shields.io/badge/CoLM-2024-blue)
 ## Part 6: Reflection
 * rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems? [[Paper]](https://arxiv.org/abs/2501.11284) ![](https://img.shields.io/badge/arXiv-2025.01-red)
