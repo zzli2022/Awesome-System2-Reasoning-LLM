@@ -24,7 +24,7 @@ This image highlights the progression of AI systems, emphasizing the shift from 
 
 ![image](./assets/timeline.png)
 
-This timeline tracks the development of reasoning LLMs, focusing on the evolution of datasets, foundational technologies, and the release of both commercial and open-source projects. Our starting point is OpenAI's SuperAlign technology report from November 2023.
+This timeline tracks the development of reasoning LLMs, focusing on the evolution of datasets, foundational technologies, and the release of both commercial and open-source projects. 
 
 <!-- omit in toc -->
 ## 📒 Table of Contents
