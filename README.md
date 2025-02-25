@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](http://arxiv.org/abs/2502.17419) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
-[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-System2-Reasoning-LLM)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 <!-- omit in toc -->
