@@ -94,7 +94,6 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * InfAlign: Inference-aware language model alignment [[Paper]](https://arxiv.org/abs/2412.19792) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * LIMR: Less is More for RL Scaling [[Paper]](https://arxiv.org/abs/2502.11886) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics [[Paper]](https://arxiv.org/abs/2502.143) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* 7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient [[Notion]](https://hkust-nlp.notion.site/simplerl-reason) ![](https://img.shields.io/badge/Notion-2025.01-red)
 ## Part 4: MCTS/Tree Search
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
 * Search-o1: Agentic Search-Enhanced Large Reasoning Models [[Paper]](https://arxiv.org/abs/2501.05366) ![](https://img.shields.io/badge/arXiv-2025.01-red)
