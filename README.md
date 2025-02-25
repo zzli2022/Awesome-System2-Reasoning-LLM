@@ -8,12 +8,12 @@
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2025.02**: We released a survey paper "[From System 1 to System 2: A Survey of Large Language Model Reasoning](http://arxiv.org/abs/2502.17419)". Feel free to cite or open pull requests.
+- **2025.02**: We released a survey paper "[From System 1 to System 2: A Survey of Reasoning Large Language Models](http://arxiv.org/abs/2502.17419)". Feel free to cite or open pull requests.
 
 <!-- omit in toc -->
 ## 👀 Introduction
 
-Welcome to the repository for our survey paper, "From System 1 to System 2: A Survey of Large Language Model Reasoning". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/2502.xxxxx).
+Welcome to the repository for our survey paper, "From System 1 to System 2: A Survey of Large Language Model Reasoning". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](http://arxiv.org/abs/2502.17419).
 
 Achieving human-level intelligence requires enhancing the transition from System 1 (fast, intuitive) to System 2 (slow, deliberate) reasoning. While foundational Large Language Models (LLMs) have made significant strides, they still fall short of human-like reasoning in complex tasks. Recent reasoning LLMs, like OpenAI’s o1, have demonstrated expert-level performance in domains such as mathematics and coding, resembling System 2 thinking. This survey explores the development of reasoning LLMs, their foundational technologies, benchmarks, and future directions. We maintain an up-to-date GitHub repository to track the latest developments in this rapidly evolving field.
 
