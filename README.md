@@ -43,6 +43,13 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 
 
 ## Part 1: O1 Replication
+* Open-Reasoner-Zero [[Paper]](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) ![](https://img.shields.io/badge/pdf-2025.02-red)
+* Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning [[Paper]](https://arxiv.org/abs/2502.14768) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* LLM-R1 [[github]](https://github.com/TideDra/lmm-r1) ![](https://img.shields.io/badge/github-2025.02-red)
+* mini-deepseek-r1 [[blog]](https://www.philschmid.de/mini-deepseek-r1) ![](https://img.shields.io/badge/blog-2025.01-red)
+* Simple Reinforcement Learning for Reasoning [[Notion]](https://hkust-nlp.notion.site/simplerl-reason) ![](https://img.shields.io/badge/Notion-2025.01-red)
+* TinyZero [[github]](https://github.com/Jiayi-Pan/TinyZero) ![](https://img.shields.io/badge/github-2025.01-red)
+* Open R1 [[github]](https://github.com/huggingface/open-r1) ![](https://img.shields.io/badge/github-2025.01-red)
 * Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems [[Paper]](https://arxiv.org/abs/2412.09413) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * o1-Coder: an o1 Replication for Coding [[Paper]](https://arxiv.org/abs/2412.00154) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Enhancing LLM Reasoning with Reward-guided Tree Search [[Paper]](https://arxiv.org/abs/2411.11694) ![](https://img.shields.io/badge/arXiv-2024.11-red)
