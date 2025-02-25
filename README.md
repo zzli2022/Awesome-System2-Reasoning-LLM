@@ -1,14 +1,14 @@
 # Awesome-System2-Reasoning-LLM
 
-[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](https://arxiv.org/pdf/2502.xxxxx) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
-[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/Awesome-Slow-Reason-System)
+[![arXiv](https://img.shields.io/badge/arXiv-Slow_Reason_System-b31b1b.svg)](http://arxiv.org/abs/2502.17419) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![Last Commit](https://img.shields.io/github/last-commit/zzli2022/Awesome-Slow-Reason-System)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 <!-- omit in toc -->
 ## 📢 Updates
 
-- **2025.02**: We released a survey paper "[From System 1 to System 2: A Survey of Large Language Model Reasoning](https://arxiv.org/pdf/2502.xxxxx)". Feel free to cite or open pull requests.
+- **2025.02**: We released a survey paper "[From System 1 to System 2: A Survey of Large Language Model Reasoning](http://arxiv.org/abs/2502.17419)". Feel free to cite or open pull requests.
 
 <!-- omit in toc -->
 ## 👀 Introduction
@@ -219,10 +219,10 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 <!-- omit in toc -->
 ## ⭐ Star History
 
-<a href="https://star-history.com/#zzli2022/Awesome-Slow-Reason-System&Date">
+<a href="https://star-history.com/#zzli2022/Awesome-System2-Reasoning-LLM&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zzli2022/Awesome-Slow-Reason-System&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-System2-Reasoning-LLM&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zzli2022/Awesome-System2-Reasoning-LLM&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zzli2022/Awesome-System2-Reasoning-LLM&type=Date" />
  </picture>
 </a>
