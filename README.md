@@ -260,6 +260,19 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 
+## Citation
+If you find this work useful, welcome to cite us.
+```bib
+@misc{li202512surveyreasoning,
+      title={From System 1 to System 2: A Survey of Reasoning Large Language Models}, 
+      author={Zhong-Zhi Li and Duzhen Zhang and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhijiang Guo and Le Song and Cheng-Lin Liu},
+      year={2025},
+      eprint={2502.17419},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.17419}, 
+}
+```
 
 <!-- omit in toc -->
 ## ⭐ Star History
