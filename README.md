@@ -40,7 +40,7 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
   - [Part 8: Explainability](#part-8-explainability)
   - [Part 9: Multimodal Agent related Slow-Fast System](#part-9-multimodal-agent-related-slow-fast-system)
   - [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
-
+  - [Part 11: Reasoning and Safety](#part-11-reasoning-and-safety)
 
 ## Part 1: O1 Replication
 * Open-Reasoner-Zero [[Paper]](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) ![](https://img.shields.io/badge/pdf-2025.02-red)
