@@ -217,6 +217,13 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * MoBA: Mixture of Block Attention for Long-Context LLMs [[Paper]](https://arxiv.org/abs/2502.13189) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * AutoReason: Automatic Few-Shot Reasoning Decomposition [[Paper]](https://arxiv.org/abs/2412.06975) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [[Paper]](https://arxiv.org/abs/2502.08482) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Scalable Language Models with Posterior Inference of Latent Thought Vectors [[Paper]](https://arxiv.org/abs/2502.01567) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [[Paper]](https://arxiv.org/abs/2502.08482) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/abs/2502.03275) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* LightThinker: Thinking Step-by-Step Compression [[Paper]](https://arxiv.org/abs/2502.15589) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities [[Paper]](https://arxiv.org/pdf/2502.17416) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* Reasoning with Latent Thoughts: On the Power of Looped Transformers [[Paper]](https://arxiv.org/pdf/2502.17416) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 ## Part 8: Explainability
 * Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
 * What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective [[Paper]](https://arxiv.org/abs/2410.23743) ![](https://img.shields.io/badge/arXiv-2024.10-red)
