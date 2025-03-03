@@ -284,6 +284,11 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking [[Paper]](https://arxiv.org/abs/2502.12893) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack [[Paper]](https://arxiv.org/abs/2502.12202) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1 [[Paper]](https://arxiv.org/abs/2502.12659) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Deliberative Alignment: Reasoning Enables Safer Language Models [[Paper]](https://arxiv.org/abs/2412.16339) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google [[Blog]](https://far.ai/post/2025-02-r1-redteaming/) ![](https://img.shields.io/badge/blog-2025.02-red)
+* OpenAI trained o1 and o3 to ‘think’ about its safety policy [[Blog]](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy) ![](https://img.shields.io/badge/blog-2024.12-red)
+* Why AI Safety Researchers Are Worried About DeepSeek [[Blog]](https://time.com/7210888/deepseeks-hidden-ai-safety-warning/) ![](https://img.shields.io/badge/blog-2025.1-red)
 
 ## Citation
 If you find this work useful, welcome to cite us.
