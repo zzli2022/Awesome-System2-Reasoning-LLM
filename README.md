@@ -289,6 +289,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google [[Blog]](https://far.ai/post/2025-02-r1-redteaming/) ![](https://img.shields.io/badge/blog-2025.02-red)
 * OpenAI trained o1 and o3 to ‘think’ about its safety policy [[Blog]](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy) ![](https://img.shields.io/badge/blog-2024.12-red)
 * Why AI Safety Researchers Are Worried About DeepSeek [[Blog]](https://time.com/7210888/deepseeks-hidden-ai-safety-warning/) ![](https://img.shields.io/badge/blog-2025.1-red)
+* Measuring Faithfulness in Chain-of-Thought Reasoning [[Blog]](https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning) ![](https://img.shields.io/badge/blog-2023.7-red)
+
 
 ## Citation
 If you find this work useful, welcome to cite us.
