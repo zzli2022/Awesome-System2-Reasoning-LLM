@@ -105,7 +105,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * LIMR: Less is More for RL Scaling [[Paper]](https://arxiv.org/abs/2502.11886) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics [[Paper]](https://arxiv.org/abs/2502.143) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning [[Paper]](https://arxiv.org/abs/2503.01067) ![](https://img.shields.io/badge/arXiv-2025.03-red)
-* Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning [[Paper]]https://arxiv.org/abs/2502.19655) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning [[Paper]](https://arxiv.org/abs/2502.19655) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Paper]](https://arxiv.org/abs/2503.05132) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Visual-RFT: Visual Reinforcement Fine-Tuning [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training [[Paper]](https://arxiv.org/abs/2503.08525) ![](https://img.shields.io/badge/arXiv-2025.03-red)
