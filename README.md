@@ -110,6 +110,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Visual-RFT: Visual Reinforcement Fine-Tuning [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training [[Paper]](https://arxiv.org/abs/2503.08525) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning [[Paper]](https://arxiv.org/abs/2503.04697) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't [[Paper]](https://arxiv.org/abs/2503.16219) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 4: MCTS/Tree Search
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
 * Search-o1: Agentic Search-Enhanced Large Reasoning Models [[Paper]](https://arxiv.org/abs/2501.05366) ![](https://img.shields.io/badge/arXiv-2025.01-red)
@@ -263,6 +264,14 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models [[Paper]](https://arxiv.org/abs/2503.09567) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation [[Paper]](https://arxiv.org/abs/2503.04872) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning [[Paper]](https://arxiv.org/abs/2503.05641) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Entropy-based Exploration Conduction for Multi-step Reasoning [[Paper]](https://arxiv.org/abs/2503.15848) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion [[Paper]](https://arxiv.org/abs/2503.16212) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models [[Paper]](https://arxiv.org/abs/2503.16419) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* ThinkPatterns-21k: A Systematic Study on the Impact of Thinking Patterns in LLMs [[Paper]](https://arxiv.org/abs/2503.12918) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Agent models: Internalizing Chain-of-Action Generation into Reasoning models [[Paper]](https://arxiv.org/abs/2503.06580) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [[Paper]](https://arxiv.org/abs/2502.04644) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* StepMathAgent: A Step-Wise Agent for Evaluating Mathematical Processes through Tree-of-Error [[Paper]](https://arxiv.org/abs/2503.10105) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding [[Paper]](https://arxiv.org/abs/2503.10183) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 8: Explainability
 * Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
 * What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective [[Paper]](https://arxiv.org/abs/2410.23743) ![](https://img.shields.io/badge/arXiv-2024.10-red)
@@ -273,6 +282,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought [[Paper]](https://arxiv.org/abs/2501.04682) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time [[Paper]](https://arxiv.org/abs/2502.19230) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2503.11074) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [[Paper]](https://arxiv.org/abs/2503.15558) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 9: Multimodal Agent related Slow-Fast System
 * Diving into Self-Evolving Training for Multimodal Reasoning [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Visual Agents as Fast and Slow Thinkers [[Paper]](https://openreview.net/forum?id=ncCuiD3KJQ) ![](https://img.shields.io/badge/ICLR-2025-blue)
@@ -303,6 +314,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts [[paper]](https://arxiv.org/abs/2502.20808) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * MastermindEval: A Simple But Scalable Reasoning Benchmark [[paper]](https://arxiv.org/abs/2503.05891) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs [[paper]](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 11: Reasoning and Safety
 * OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
