@@ -158,6 +158,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Fine-grained Conversational Decoding via Isotropic and Proximal Search [[Paper]](https://aclanthology.org/2023.emnlp-main.5/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
 * Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata [[Paper]](https://aclanthology.org/2024.naacl-short.42/) ![](https://img.shields.io/badge/NAACL-2024-blue)
 * Look-back Decoding for Open-Ended Text Generation [[Paper]](https://aclanthology.org/2023.emnlp-main.66/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
+* PairJudge RM: Perform Best-of-N Sampling with Knockout Tournament [[Paper]](https://arxiv.org/abs/2501.13007) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction [[Paper]](https://arxiv.org/abs/2502.17925) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 5: Self-Training / Self-Improve
@@ -297,6 +298,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations [[Paper]](https://arxiv.org/abs/2502.06453) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion [[Paper]](https://arxiv.org/abs/2501.15089) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style [[Paper]](https://openreview.net/forum?id=QEHrmQPBdd)![](https://img.shields.io/badge/ICLR(Oral)-2025.01-blue)
 * LR<sup>2</sup>Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems [[Paper]](https://arxiv.org/abs/2502.17848) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts [[paper]](https://arxiv.org/abs/2502.20808) ![](https://img.shields.io/badge/arXiv-2025.02-red)
