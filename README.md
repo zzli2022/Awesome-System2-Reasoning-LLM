@@ -23,8 +23,7 @@ Achieving human-level intelligence requires enhancing the transition from System
 This image highlights the progression of AI systems, emphasizing the shift from rapid, intuitive approaches to deliberate, reasoning-driven models. It shows how AI has evolved to handle a broader range of real-world challenges.
 
 ![image](./assets/timeline.png)
-
-This timeline tracks the development of reasoning LLMs, focusing on the evolution of datasets, foundational technologies, and the release of both commercial and open-source projects. 
+The recent timeline of reasoning LLMs, covering core methods and the release of open-source and closed-source reproduction projects.
 
 <!-- omit in toc -->
 ## 📒 Table of Contents
@@ -40,7 +39,7 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
   - [Part 8: Explainability](#part-8-explainability)
   - [Part 9: Multimodal Agent related Slow-Fast System](#part-9-multimodal-agent-related-slow-fast-system)
   - [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
-
+  - [Part 11: Reasoning and Safety](#part-11-reasoning-and-safety)
 
 ## Part 1: O1 Replication
 * Open-Reasoner-Zero [[Paper]](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -63,6 +62,7 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions [[Paper]](https://arxiv.org/abs/2411.14405) ![](https://img.shields.io/badge/arXiv-2024.11-red)
 * O1 Replication Journey--Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson? [[Paper]](https://arxiv.org/abs/2411.16489) ![](https://img.shields.io/badge/arXiv-2024.11-red)
 * O1 Replication Journey: A Strategic Progress Report -- Part 1 [[Paper]](https://arxiv.org/abs/2410.18982) ![](https://img.shields.io/badge/arXiv-2024.10-red)
+* The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer [[Paper]](https://arxiv.org/abs/2502.15631) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 2: Process Reward Models
 * PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding [[Paper]](https://arxiv.org/abs/2501.07861) ![](https://img.shields.io/badge/arXiv-2025.01-red)
@@ -83,6 +83,9 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[Paper]](https://www.arxiv.org/abs/2502.13943) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models [[Paper]](https://www.arxiv.org/abs/2502.08922) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/abs/2502.06703) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Unified Reward Model for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/abs/2503.05236) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+
 ## Part 3: Reinforcement Learning
 * Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL [[Paper]](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) ![](https://img.shields.io/badge/Notion-2025.02-red)
@@ -101,6 +104,12 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * InfAlign: Inference-aware language model alignment [[Paper]](https://arxiv.org/abs/2412.19792) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * LIMR: Less is More for RL Scaling [[Paper]](https://arxiv.org/abs/2502.11886) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * A Survey on Feedback-based Multi-step Reasoning for Large Language Models on Mathematics [[Paper]](https://arxiv.org/abs/2502.143) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning [[Paper]](https://arxiv.org/abs/2503.01067) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning [[Paper]](https://arxiv.org/abs/2502.19655) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model [[Paper]](https://arxiv.org/abs/2503.05132) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Visual-RFT: Visual Reinforcement Fine-Tuning [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training [[Paper]](https://arxiv.org/abs/2503.08525) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning [[Paper]](https://arxiv.org/abs/2503.04697) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 4: MCTS/Tree Search
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
 * Search-o1: Agentic Search-Enhanced Large Reasoning Models [[Paper]](https://arxiv.org/abs/2501.05366) ![](https://img.shields.io/badge/arXiv-2025.01-red)
@@ -150,6 +159,8 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata [[Paper]](https://aclanthology.org/2024.naacl-short.42/) ![](https://img.shields.io/badge/NAACL-2024-blue)
 * Look-back Decoding for Open-Ended Text Generation [[Paper]](https://aclanthology.org/2023.emnlp-main.66/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
 * PairJudge RM: Perform Best-of-N Sampling with Knockout Tournament [[Paper]](https://arxiv.org/abs/2501.13007) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction [[Paper]](https://arxiv.org/abs/2502.17925) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 5: Self-Training / Self-Improve
 * Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math) [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search [[Paper]](https://arxiv.org/abs/2406.03816) ![](https://img.shields.io/badge/arXiv-2024.12-red)
@@ -176,6 +187,8 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * Large Language Models are Better Reasoners with Self-Verification [[Paper]](/aclanthology.org/2023.findings-emnlp.167/) ![](https://img.shields.io/badge/ACL_Findings-2023-blue)
 * Self-Evaluation Guided Beam Search for Reasoning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/81fde95c4dc79188a69ce5b24d63010b-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-blue)
 * Learning From Correctness Without Prompting Makes LLM Efficient Reasoner [[Paper]](https://openreview.net/forum?id=dcbNzhVVQj#discussion) ![](https://img.shields.io/badge/CoLM-2024-blue)
+* Language Models can Self-Improve at State-Value Estimation for Better Search [[Paper]](https://arxiv.org/abs/2503.02878) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Self-Training Elicits Concise Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2502.20122) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 6: Reflection
 * rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems? [[Paper]](https://arxiv.org/abs/2501.11284) ![](https://img.shields.io/badge/arXiv-2025.01-red)
@@ -219,6 +232,37 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * MoBA: Mixture of Block Attention for Long-Context LLMs [[Paper]](https://arxiv.org/abs/2502.13189) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * AutoReason: Automatic Few-Shot Reasoning Decomposition [[Paper]](https://arxiv.org/abs/2412.06975) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [[Paper]](https://arxiv.org/abs/2502.08482) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Scalable Language Models with Posterior Inference of Latent Thought Vectors [[Paper]](https://arxiv.org/abs/2502.01567) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning [[Paper]](https://arxiv.org/abs/2502.08482) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning [[Paper]](https://arxiv.org/abs/2502.03275) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* LightThinker: Thinking Step-by-Step Compression [[Paper]](https://arxiv.org/abs/2502.15589) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities [[Paper]](https://arxiv.org/pdf/2502.17416) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* Reasoning with Latent Thoughts: On the Power of Looped Transformers [[Paper]](https://arxiv.org/pdf/2502.17416) ![](https://img.shields.io/badge/ICLR-2025-blue)
+* Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/pdf/2501.19201) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Emergent Symbolic Mechanisms Support Abstract Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2502.20332) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Investigating Inference-time Scaling for Chain of Multi-modal Thought: A Preliminary Study [[Paper]](https://arxiv.org/abs/2502.11514) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2502.19918) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving [[Paper]](https://arxiv.org/abs/2502.20238) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* MixLLM: Dynamic Routing in Mixed Large Language Models [[Paper]](https://arxiv.org/abs/2502.18482) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* PEARL: Towards Permutation-Resilient LLMs [[Paper]](https://arxiv.org/abs/2502.14628) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment [[Paper]](https://www.arxiv.org/abs/2502.07803) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning? [[Paper]](https://arxiv.org/abs/2502.19361) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs [[Paper]](https://arxiv.org/abs/2502.19411) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Training Large Language Models to be Better Rule Followers [[Paper]](https://arxiv.org/abs/2502.11525) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* SIFT: Grounding LLM Reasoning in Contexts via Stickers [[Paper]](https://arxiv.org/abs/2502.14922) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence [[Paper]](https://arxiv.org/abs/2502.13943) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach [[Paper]](https://arxiv.org/abs/2503.01141) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* PromptCoT: Synthesizing Olympiad-level Problems for Mathematical Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2503.02324) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models [[Paper]](https://arxiv.org/abs/2503.04472) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases [[Paper]](https://arxiv.org/abs/2503.04691) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs [[Paper]](https://arxiv.org/abs/2501.18585) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs [[Paper]](https://arxiv.org/abs/2501.16207) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* MALT: Improving Reasoning with Multi-Agent LLM Training [[Paper]](https://arxiv.org/abs/2412.01928) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Efficient Reasoning with Hidden Thinking [[Paper]](https://arxiv.org/abs/2501.19201) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation [[Paper]](https://arxiv.org/abs/2502.21074) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models [[Paper]](https://arxiv.org/abs/2503.09567) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* TinyR1-32B-Preview: Boosting Accuracy with Branch-Merge Distillation [[Paper]](https://arxiv.org/abs/2503.04872) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning [[Paper]](https://arxiv.org/abs/2503.05641) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 8: Explainability
 * Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
 * What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective [[Paper]](https://arxiv.org/abs/2410.23743) ![](https://img.shields.io/badge/arXiv-2024.10-red)
@@ -226,11 +270,9 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * The Impact of Reasoning Step Length on Large Language Models [[Paper]](https://arxiv.org/abs/2401.04925) ![](https://img.shields.io/badge/arXiv-2024.08-red)
 * Distilling System 2 into System 1 [[Paper]](https://arxiv.org/abs/2407.06023) ![](https://img.shields.io/badge/arXiv-2024.07-red)
 * System 2 Attention (is something you might need too) [[Paper]](https://arxiv.org/abs/2311.11829) ![](https://img.shields.io/badge/arXiv-2023.11-red)
-* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails [[Paper]](https://arxiv.org/abs/2502.13458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking [[Paper]](https://arxiv.org/abs/2502.12893) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack [[Paper]](https://arxiv.org/abs/2502.12202) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought [[Paper]](https://arxiv.org/abs/2501.04682) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time [[Paper]](https://arxiv.org/abs/2502.19230) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 9: Multimodal Agent related Slow-Fast System
 * Diving into Self-Evolving Training for Multimodal Reasoning [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Visual Agents as Fast and Slow Thinkers [[Paper]](https://openreview.net/forum?id=ncCuiD3KJQ) ![](https://img.shields.io/badge/ICLR-2025-blue)
@@ -257,11 +299,40 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion [[Paper]](https://arxiv.org/abs/2501.15089) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style [[Paper]](https://openreview.net/forum?id=QEHrmQPBdd)![](https://img.shields.io/badge/ICLR(Oral)-2025.01-blue)
+* LR<sup>2</sup>Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems [[Paper]](https://arxiv.org/abs/2502.17848) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* BIG-Bench Extra Hard [[Paper]](https://arxiv.org/abs/2502.19187) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts [[paper]](https://arxiv.org/abs/2502.20808) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* MastermindEval: A Simple But Scalable Reasoning Benchmark [[paper]](https://arxiv.org/abs/2503.05891) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 11: Reasoning and Safety
 * OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-* GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/ICLR_WorkShop-2025-blue)
+* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails [[Paper]](https://arxiv.org/abs/2502.13458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking [[Paper]](https://arxiv.org/abs/2502.12893) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack [[Paper]](https://arxiv.org/abs/2502.12202) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1 [[Paper]](https://arxiv.org/abs/2502.12659) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Deliberative Alignment: Reasoning Enables Safer Language Models [[Paper]](https://arxiv.org/abs/2412.16339) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Illusory Safety: Redteaming DeepSeek R1 and the Strongest Fine-Tunable Models of OpenAI, Anthropic, and Google [[Blog]](https://far.ai/post/2025-02-r1-redteaming/) ![](https://img.shields.io/badge/blog-2025.02-red)
+* OpenAI trained o1 and o3 to ‘think’ about its safety policy [[Blog]](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy) ![](https://img.shields.io/badge/blog-2024.12-red)
+* Why AI Safety Researchers Are Worried About DeepSeek [[Blog]](https://time.com/7210888/deepseeks-hidden-ai-safety-warning/) ![](https://img.shields.io/badge/blog-2025.1-red)
+* Measuring Faithfulness in Chain-of-Thought Reasoning [[Blog]](https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning) ![](https://img.shields.io/badge/blog-2023.7-red)
 
+
+## Citation
+If you find this work useful, welcome to cite us.
+```bib
+@misc{li202512surveyreasoning,
+      title={From System 1 to System 2: A Survey of Reasoning Large Language Models}, 
+      author={Zhong-Zhi Li and Duzhen Zhang and Ming-Liang Zhang and Jiaxin Zhang and Zengyan Liu and Yuxuan Yao and Haotian Xu and Junhao Zheng and Pei-Jie Wang and Xiuyi Chen and Yingying Zhang and Fei Yin and Jiahua Dong and Zhijiang Guo and Le Song and Cheng-Lin Liu},
+      year={2025},
+      eprint={2502.17419},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.17419}, 
+}
+```
 
 <!-- omit in toc -->
 ## ⭐ Star History
