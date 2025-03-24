@@ -64,6 +64,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * O1 Replication Journey: A Strategic Progress Report -- Part 1 [[Paper]](https://arxiv.org/abs/2410.18982) ![](https://img.shields.io/badge/arXiv-2024.10-red)
 * The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer [[Paper]](https://arxiv.org/abs/2502.15631) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 2: Process Reward Models
+* ARMAP: Scaling Autonomous Agents via Automatic Reward Modeling And Planning [[Paper]](https://arxiv.org/abs/2502.12130) ![](https://img.shields.io/badge/ICLR-2025-blue)
 * PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models. [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding [[Paper]](https://arxiv.org/abs/2501.07861) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * The Lessons of Developing Process Reward Models in Mathematical Reasoning. [[Paper]](https://arxiv.org/abs/2501.07301) ![](https://img.shields.io/badge/arXiv-2025.01-red)
@@ -112,6 +113,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning [[Paper]](https://arxiv.org/abs/2503.04697) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't [[Paper]](https://arxiv.org/abs/2503.16219) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 4: MCTS/Tree Search
+* ARMAP: Scaling Autonomous Agents via Automatic Reward Modeling And Planning [[Paper]](https://arxiv.org/abs/2502.12130) ![](https://img.shields.io/badge/ICLR-2025-blue)
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
 * Search-o1: Agentic Search-Enhanced Large Reasoning Models [[Paper]](https://arxiv.org/abs/2501.05366) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
