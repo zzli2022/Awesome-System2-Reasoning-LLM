@@ -319,6 +319,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs [[paper]](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 11: Reasoning and Safety
+* Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * OverThink: Slowdown Attacks on Reasoning LLMs [[Paper]](https://arxiv.org/abs/2502.02542) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * GuardReasoner: Towards Reasoning-based LLM Safeguards [[Paper]](https://arxiv.org/abs/2501.18492) ![](https://img.shields.io/badge/ICLR_WorkShop-2025-blue)
 * SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities [[Paper]](https://arxiv.org/abs/2502.12025) ![](https://img.shields.io/badge/arXiv-2025.02-red)
