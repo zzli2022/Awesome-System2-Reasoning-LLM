@@ -40,6 +40,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
   - [Part 9: Multimodal Agent related Slow-Fast System](#part-9-multimodal-agent-related-slow-fast-system)
   - [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
   - [Part 11: Reasoning and Safety](#part-11-reasoning-and-safety)
+  - [Part 12: R1 Driven Multimodal Reasoning Enhancement](#part-12-r1-driven-multimodal-reasoning-enhancement)
 
 ## Part 1: O1 Replication
 * Open-Reasoner-Zero [[Paper]](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf) ![](https://img.shields.io/badge/pdf-2025.02-red)
@@ -317,6 +318,10 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts [[paper]](https://arxiv.org/abs/2502.20808) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * MastermindEval: A Simple But Scalable Reasoning Benchmark [[paper]](https://arxiv.org/abs/2503.05891) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs [[paper]](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[paper]](https://arxiv.org/abs/2502.09696) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[paper]](https://arxiv.org/abs/2502.09621) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[paper]](https://arxiv.org/abs/2502.00698) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[github]](https://github.com/haonan3/V1) ![](https://img.shields.io/badge/github-2025.03-red)
 
 ## Part 11: Reasoning and Safety
 * Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555) ![](https://img.shields.io/badge/arXiv-2025.03-red)
