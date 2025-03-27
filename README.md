@@ -113,6 +113,9 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training [[Paper]](https://arxiv.org/abs/2503.08525) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning [[Paper]](https://arxiv.org/abs/2503.04697) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't [[Paper]](https://arxiv.org/abs/2503.16219) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Improve Vision Language Model Chain-of-thought Reasoning [[Paper]](https://arxiv.org/abs/2410.16198) ![](https://img.shields.io/badge/arXiv-2024.10-red)
+* MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[Paper]](https://arxiv.org/abs/2502.10391) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+
 ## Part 4: MCTS/Tree Search
 * ARMAP: Scaling Autonomous Agents via Automatic Reward Modeling And Planning [[Paper]](https://arxiv.org/abs/2502.12130) ![](https://img.shields.io/badge/ICLR-2025-blue)
 * On the Convergence Rate of MCTS for the Optimal Value Estimation in Markov Decision Processes [[Paper]](https://ieeexplore.ieee.org/abstract/document/10870057/) ![](https://img.shields.io/badge/IEEE_TAC-2025-blue)
