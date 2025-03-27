@@ -333,6 +333,23 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * OpenAI trained o1 and o3 to ‘think’ about its safety policy [[Blog]](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy) ![](https://img.shields.io/badge/blog-2024.12-red)
 * Why AI Safety Researchers Are Worried About DeepSeek [[Blog]](https://time.com/7210888/deepseeks-hidden-ai-safety-warning/) ![](https://img.shields.io/badge/blog-2025.1-red)
 * Measuring Faithfulness in Chain-of-Thought Reasoning [[Blog]](https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning) ![](https://img.shields.io/badge/blog-2023.7-red)
+## Part 12: R1 Driven Multimodal Reasoning Enhancement
+* Efficient-R1-VLLM: Efficient RL-Tuned MoE Vision-Language Model For Reasoning [[github]](https://github.com/baibizhe/Efficient-R1-VLLM) ![](https://img.shields.io/badge/github-2025.03-red)
+* MMR1: Advancing the Frontiers of Multimodal Reasoning [[github]](https://github.com/LengSicong/MMR1) ![](https://img.shields.io/badge/github-2025.03-red)
+* Skywork-R1V: Pioneering Multimodal Reasoning with CoT [[github]](https://github.com/SkyworkAI/Skywork-R1V/tree/main) ![](https://img.shields.io/badge/github-2025.03-red)
+* Open R1 Video [[github]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![](https://img.shields.io/badge/github-2025.02-red)
+* R1-Vision: Let's first take a look at the image [[github]](https://github.com/yuyq96/R1-Vision) ![](https://img.shields.io/badge/github-2025.02-red)
+* VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[Blog]](https://om-ai-lab.github.io/index.html) ![](https://img.shields.io/badge/blog-2025.03-red)
+* MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07365) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* R1-Onevision: Advancing Generalized Multimodal Reasoning through  Cross-Modal Formalization [[paper]](https://arxiv.org/abs/2503.10615) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* R1-VL: Learning to Reason with Multimodal Large Language Models via  Step-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2503.12937) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language  Models [[paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* MedVLM-R1: Incentivizing Medical Reasoning  Capability of Vision-Language Models (VLMs)  via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+
 
 
 ## Citation
