@@ -87,6 +87,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling [[Paper]](https://arxiv.org/abs/2502.06703) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems [[Paper]](https://arxiv.org/abs/2502.19328) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Unified Reward Model for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/abs/2503.05236) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Multi-head Reward Aggregation Guided by Entropy [[Paper]](https://arxiv.org/abs/2503.20995) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 3: Reinforcement Learning
 * Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
@@ -115,6 +116,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't [[Paper]](https://arxiv.org/abs/2503.16219) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Improve Vision Language Model Chain-of-thought Reasoning [[Paper]](https://arxiv.org/abs/2410.16198) ![](https://img.shields.io/badge/arXiv-2024.10-red)
 * MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[Paper]](https://arxiv.org/abs/2502.10391) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [[Paper]](https://arxiv.org/abs/2503.21620) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 4: MCTS/Tree Search
 * ARMAP: Scaling Autonomous Agents via Automatic Reward Modeling And Planning [[Paper]](https://arxiv.org/abs/2502.12130) ![](https://img.shields.io/badge/ICLR-2025-blue)
@@ -168,6 +170,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * PairJudge RM: Perform Best-of-N Sampling with Knockout Tournament [[Paper]](https://arxiv.org/abs/2501.13007) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction [[Paper]](https://arxiv.org/abs/2502.17925) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking [[Paper]](https://arxiv.org/abs/2502.20730) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 5: Self-Training / Self-Improve
 * Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math) [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search [[Paper]](https://arxiv.org/abs/2406.03816) ![](https://img.shields.io/badge/arXiv-2024.12-red)
@@ -278,6 +281,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [[Paper]](https://arxiv.org/abs/2502.04644) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * StepMathAgent: A Step-Wise Agent for Evaluating Mathematical Processes through Tree-of-Error [[Paper]](https://arxiv.org/abs/2503.10105) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding [[Paper]](https://arxiv.org/abs/2503.10183) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators [[Paper]](https://arxiv.org/abs/2503.19877) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Shared Global and Local Geometry of Language Model Embeddings [[Paper]](https://arxiv.org/abs/2503.21073) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 ## Part 8: Explainability
 * Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
 * What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective [[Paper]](https://arxiv.org/abs/2410.23743) ![](https://img.shields.io/badge/arXiv-2024.10-red)
@@ -325,6 +330,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[paper]](https://arxiv.org/abs/2502.09621) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[paper]](https://arxiv.org/abs/2502.00698) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks [[github]](https://github.com/haonan3/V1) ![](https://img.shields.io/badge/github-2025.03-red)
+* ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition [[paper]](https://arxiv.org/abs/2503.21248) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 
 ## Part 11: Reasoning and Safety
 * Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555) ![](https://img.shields.io/badge/arXiv-2025.03-red)
