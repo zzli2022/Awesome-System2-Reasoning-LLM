@@ -354,6 +354,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Open R1 Video [[github]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![](https://img.shields.io/badge/github-2025.02-red)
 * R1-Vision: Let's first take a look at the image [[github]](https://github.com/yuyq96/R1-Vision) ![](https://img.shields.io/badge/github-2025.02-red)
 * VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[Blog]](https://om-ai-lab.github.io/index.html) ![](https://img.shields.io/badge/blog-2025.03-red)
+* Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1 [[paper]](https://arxiv.org/abs/2503.24376v1) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07365) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * R1-Onevision: Advancing Generalized Multimodal Reasoning through  Cross-Modal Formalization [[paper]](https://arxiv.org/abs/2503.10615) ![](https://img.shields.io/badge/arXiv-2025.03-red)
