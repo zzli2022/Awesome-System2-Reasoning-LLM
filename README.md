@@ -233,6 +233,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Refiner: Restructure Retrieved Content Efficiently to Advance Question-Answering Capabilities [[Paper]](https://aclanthology.org/2024.findings-emnlp.500/) ![](https://img.shields.io/badge/EMNLP-2024-blue)
 * rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems? [[Paper]](https://arxiv.org/abs/2501.11284) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[Paper]](https://arxiv.org/abs/2503.21696) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Perception in Reflection [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 ## Part 7: Efficient System2
 
