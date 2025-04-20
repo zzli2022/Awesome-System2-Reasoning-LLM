@@ -131,6 +131,10 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 *  Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning [[Paper]](https://arxiv.org/abs/2504.05108) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  Efficient Reinforcement Finetuning via Adaptive Curriculum Learning [[Paper]](https://arxiv.org/pdf/2504.05520) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[Paper]](https://arxiv.org/abs/2504.06958) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+*  SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[Paper]](https://arxiv.org/abs/2504.11468) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+*  RAISE: Reinforenced Adaptive Instruction Selection For Large Language Models [[Paper]](https://arxiv.org/abs/2504.07282) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+*  MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning [[Paper]](https://arxiv.org/abs/2504.10160) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+*  VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[Paper]](https://arxiv.org/abs/2503.07523) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 
 ## Part 4: MCTS/Tree Search
 
@@ -186,6 +190,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking [[Paper]](https://arxiv.org/abs/2502.20730) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models [[Paper]](https://arxiv.org/abs/2502.11881) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search [[Paper]](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 ## Part 5: Self-Training / Self-Improve
 
 * Expert Iteration: Thinking Fast and Slow with Deep Learning and Tree Search [[Paper]](https://proceedings.neurips.cc/paper/2017/hash/d8e1344e27a5b08cdfd5d027d9b8d6de-Abstract.html) ![](https://img.shields.io/badge/NeurIPS-2017-blue)
@@ -315,6 +320,9 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Decentralizing AI Memory: SHIMI, a Semantic Hierarchical Memory Index for Scalable Agent Reasoning [[Paper]](https://arxiv.org/abs/2504.06135) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * Reasoning Towards Fairness: Mitigating Bias in Language Models through Reasoning-Guided Fine-Tuning [[Paper]](https://arxiv.org/pdf/2504.05632) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead [[Paper]](https://arxiv.org/abs/2504.00294) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability [[Paper]](https://arxiv.org/abs/2504.10081) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT? [[Paper]](https://arxiv.org/abs/2504.11741) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+
 
 ## Part 8: Explainability
 * Agents Thinking Fast and Slow: A Talker-Reasoner Architecture [[Paper]](https://openreview.net/forum?id=xPhcP6rbI4) ![](https://img.shields.io/badge/NeurIPS_WorkShop-2024-blue)
