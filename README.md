@@ -451,6 +451,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable [[Paper]](https://arxiv.org/abs/2503.00555) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning [[Paper]](https://arxiv.org/abs/2504.12659) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * STAR-1: Safer Alignment of Reasoning LLMs with 1K Data [[Paper]](https://arxiv.org/abs/2504.01903) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+
 ## Part 12: R1 Driven Multimodal Reasoning Enhancement
 * Open R1 Video [[github]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) ![](https://img.shields.io/badge/github-2025.02-red)
 * R1-Vision: Let's first take a look at the image [[github]](https://github.com/yuyq96/R1-Vision) ![](https://img.shields.io/badge/github-2025.02-red)
@@ -469,6 +470,15 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language  Models [[paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[paper]](http://arxiv.org/abs/2503.22679) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [[paper]](http://arxiv.org/abs/2504.02587) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [[paper]](http://arxiv.org/abs/2504.07615) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* VLAA-Thinking [[github]](https://github.com/UCSC-VLAA/VLAA-Thinking/blob/main/assets/VLAA-Thinker.pdf) ![](https://img.shields.io/badge/github-2025.04-red)    
+* SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement [[paper]](http://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[paper]](http://arxiv.org/abs/2504.07954) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[paper]](http://arxiv.org/abs/2504.08837) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](http://arxiv.org/abs/2504.12680) ![](https://img.shields.io/badge/arXiv-2025.04-red)  
+* NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055v1) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 
 
 
