@@ -22,7 +22,7 @@ Achieving human-level intelligence requires enhancing the transition from System
 
 This image highlights the progression of AI systems, emphasizing the shift from rapid, intuitive approaches to deliberate, reasoning-driven models. It shows how AI has evolved to handle a broader range of real-world challenges.
 
-![image](./assets/timeline.png)
+![image](./assets/timeline_2.png)
 The recent timeline of reasoning LLMs, covering core methods and the release of open-source and closed-source reproduction projects.
 
 <!-- omit in toc -->
