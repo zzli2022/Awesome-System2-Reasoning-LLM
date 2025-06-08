@@ -482,7 +482,6 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 
 
 
-
 ## Citation
 If you find this work useful, welcome to cite us.
 ```bib
