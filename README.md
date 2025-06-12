@@ -135,6 +135,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 *  RAISE: Reinforenced Adaptive Instruction Selection For Large Language Models [[Paper]](https://arxiv.org/abs/2504.07282) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning [[Paper]](https://arxiv.org/abs/2504.10160) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[Paper]](https://arxiv.org/abs/2503.07523) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+*  Reinforcing General Reasoning without Verifiers [[Paper]](https://arxiv.org/abs/2505.21493) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 
 ## Part 4: MCTS/Tree Search
 
