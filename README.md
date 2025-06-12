@@ -135,6 +135,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 *  RAISE: Reinforenced Adaptive Instruction Selection For Large Language Models [[Paper]](https://arxiv.org/abs/2504.07282) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning [[Paper]](https://arxiv.org/abs/2504.10160) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[Paper]](https://arxiv.org/abs/2503.07523) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models [[Paper]](https://arxiv.org/abs/2505.22617) ![](https://img.shields.io/badge/arXiv-2025.05-red)
+* Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library [[Paper]](https://arxiv.org/abs/2506.06122) ![](https://img.shields.io/badge/arXiv-2025.06-red)
 
 ## Part 4: MCTS/Tree Search
 
@@ -310,6 +312,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Shared Global and Local Geometry of Language Model Embeddings [[Paper]](https://arxiv.org/abs/2503.21073) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning [[Paper]](https://arxiv.org/abs/2503.13360) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Effectively Controlling Reasoning Models through Thinking Intervention [[Paper]](https://arxiv.org/abs/2503.24370) ![](https://img.shields.io/badge/arXiv-2025.03-red)
+* From chaos to order: The atomic reasoner framework for fine-grained reasoning in large language models [[Paper]](https://arxiv.org/abs/2503.15944) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[Paper]](https://arxiv.org/abs/2503.02318) ![](https://img.shields.io/badge/arXiv-2025.03-red)
 * TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[Paper]](https://arxiv.org/abs/2504.09641) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * Lemmanaid: Neuro-Symbolic Lemma Conjecturing [[Paper]](https://arxiv.org/abs/2504.04942) ![](https://img.shields.io/badge/arXiv-2025.04-red)
@@ -343,11 +346,13 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Vision-Language Models Can Self-Improve Reasoning via Reflection [[Paper]](https://arxiv.org/abs/2411.00855) ![](https://img.shields.io/badge/arXiv-2024.11-red)
 * Scaling Inference-Time Search With Vision Value Model for Improved Visual Comprehension [[Paper]](https://arxiv.org/pdf/2412.03704) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Slow Perception: Let's Perceive Geometric Figures Step-by-Step [[Paper]](https://arxiv.org/abs/2412.20631) ![](https://img.shields.io/badge/arXiv-2024.12-red)
+* Peria: Perceive, reason, imagine, act via holistic language and vision planning for manipulation [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f6af963e891e7efa229c24a1607fa7f-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
 * Diving into Self-Evolving Training for Multimodal Reasoning [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Visual Agents as Fast and Slow Thinkers [[Paper]](https://openreview.net/forum?id=ncCuiD3KJQ) ![](https://img.shields.io/badge/ICLR-2025-blue)
 * Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Paper]](https://arxiv.org/abs/2501.01904) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models [[Paper]](https://arxiv.org/abs/2502.10458) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision [[Paper]](https://arxiv.org/abs/2502.13957) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2505.08548) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 ## Part 10: Benchmark and Datasets
 
 * Evaluation of OpenAI o1: Opportunities and Challenges of AGI [[Paper]](https://arxiv.org/abs/2409.18486) ![](https://img.shields.io/badge/arXiv-2024.09-red)
@@ -431,6 +436,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * CodeCriticBench: A Holistic Code Critique Benchmark for Large Language Models [[paper]](https://arxiv.org/abs/2502.16614) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning? [[paper]](https://arxiv.org/abs/2502.19361) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving [[paper]](https://arxiv.org/abs/2502.20238) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* SheetAgent: towards a generalist agent for spreadsheet reasoning and manipulation via large language models [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714962) ![](https://img.shields.io/badge/WWW-2025-blue)
 
 
 
