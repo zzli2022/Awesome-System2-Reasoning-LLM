@@ -239,7 +239,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems? [[Paper]](https://arxiv.org/abs/2501.11284) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Perception in Reflection [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/arXiv-2025.04-red)
-* Generating Symbolic World Models via Test-time Scaling of Large Language Models [[Paper]](https://arxiv.org/abs/2502.04728) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+* Generating Symbolic World Models via Test-time Scaling of Large Language Models [[Paper]](https://arxiv.org/abs/2502.04728) ![](https://img.shields.io/badge/TMLR-2025.02-blue)
 ## Part 7: Efficient System2
 
 * Guiding Language Model Reasoning with Planning Tokens [[Paper]](https://arxiv.org/abs/2310.05707) ![](https://img.shields.io/badge/arXiv-2024.10-red)
