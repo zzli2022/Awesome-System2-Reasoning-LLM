@@ -431,7 +431,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * CodeCriticBench: A Holistic Code Critique Benchmark for Large Language Models [[paper]](https://arxiv.org/abs/2502.16614) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning? [[paper]](https://arxiv.org/abs/2502.19361) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving [[paper]](https://arxiv.org/abs/2502.20238) ![](https://img.shields.io/badge/arXiv-2025.02-red)
-
+* PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Paper]](https://arxiv.org/abs//2505.15929) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 
 
 ## Part 11: Reasoning and Safety
