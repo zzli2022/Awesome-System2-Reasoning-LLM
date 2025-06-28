@@ -28,7 +28,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 <!-- omit in toc -->
 ## 📒 Table of Contents
 
-- [Awesome-System-2-AI](#awesome-system-2-ai)
+- [Awesome-System2-Reasoning-LLM](#awesome-system2-reasoning-llm)
   - [Part 1: O1 Replication](#part-1-o1-replication)
   - [Part 2: Process Reward Models](#part-2-process-reward-models)
   - [Part 3: Reinforcement Learning](#part-3-reinforcement-learning)
@@ -41,6 +41,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
   - [Part 10: Benchmark and Datasets](#part-10-benchmark-and-datasets)
   - [Part 11: Reasoning and Safety](#part-11-reasoning-and-safety)
   - [Part 12: R1 Driven Multimodal Reasoning Enhancement](#part-12-r1-driven-multimodal-reasoning-enhancement)
+  - [Citation](#citation)
 
 ## Part 1: O1 Replication
 
@@ -350,6 +351,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision [[Paper]](https://arxiv.org/abs/2502.13957) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 ## Part 10: Benchmark and Datasets
 
+* PhyX: Does Your Model Have the "Wits" for Physical Reasoning? [[Paper]](https://arxiv.org/pdf/2505.15929) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 * Evaluation of OpenAI o1: Opportunities and Challenges of AGI [[Paper]](https://arxiv.org/abs/2409.18486) ![](https://img.shields.io/badge/arXiv-2024.09-red)
 * A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor? [[Paper]](https://arxiv.org/abs/2409.15277) ![](https://img.shields.io/badge/arXiv-2024.09-red)
 * FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI [[Paper]](https://arxiv.org/abs/2411.04872) ![](https://img.shields.io/badge/arXiv-2024.11-red)
