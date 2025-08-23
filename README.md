@@ -322,6 +322,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead [[Paper]](https://arxiv.org/abs/2504.00294) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability [[Paper]](https://arxiv.org/abs/2504.10081) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT? [[Paper]](https://arxiv.org/abs/2504.11741) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling [[Paper]](https://arxiv.org/abs/2505.17155) ![](https://img.shields.io/badge/SCALR@COLM-2025-blue)
+* Large Reasoning Models Know How to Think Efficiently [[Paper](https://openreview.net/forum?id=pLKDeGm2t1)]  ![](https://img.shields.io/badge/ESFoMoIII@ICML-2025-blue)
 
 
 ## Part 8: Explainability
