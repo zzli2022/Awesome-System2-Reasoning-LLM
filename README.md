@@ -361,6 +361,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations [[Paper]](https://arxiv.org/abs/2502.06453) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion [[Paper]](https://arxiv.org/abs/2501.15089) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) ![](https://img.shields.io/badge/arXiv-2025.01-red)
+* Verantyx v6: LLM-Free Symbolic Reasoning Engine for HLE (3.80% bias-free via structural verification) [[Code]](https://github.com/Ag3497120/verantyx-v6) ![](https://img.shields.io/badge/GitHub-2026.02-green)
 * RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style [[Paper]](https://openreview.net/forum?id=QEHrmQPBdd)![](https://img.shields.io/badge/ICLR(Oral)-2025.01-blue)
 * PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models [[Paper]](https://arxiv.org/abs/2501.03124) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models [[Paper]](https://arxiv.org/abs/2502.17387) ![](https://img.shields.io/badge/arXiv-2025.02-red)
