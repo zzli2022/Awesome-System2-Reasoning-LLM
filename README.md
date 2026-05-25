@@ -322,6 +322,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead [[Paper]](https://arxiv.org/abs/2504.00294) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability [[Paper]](https://arxiv.org/abs/2504.10081) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT? [[Paper]](https://arxiv.org/abs/2504.11741) ![](https://img.shields.io/badge/arXiv-2025.04-red)
+* Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models [[Paper]](https://arxiv.org/abs/2605.17672) ![](https://img.shields.io/badge/arXiv-2026.05-red)
 
 
 ## Part 8: Explainability
