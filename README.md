@@ -223,6 +223,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasonin [[Paper]](https://arxiv.org/abs/2504.08672) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 * START: Self-taught Reasoner with Tools [[Paper]](https://arxiv.org/abs/2503.04625) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 ## Part 6: Reflection
+* Graph of States: Solving Abductive Tasks with Large Language Models [[Paper]](https://arxiv.org/abs/2603.21250) [[Code]](https://github.com/gaorch85/Graph-of-States) ![](https://img.shields.io/badge/ICML-2026-blue)
 * SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning [[Paper]](https://arxiv.org/abs/2308.00436) ![](https://img.shields.io/badge/arXiv-2023.08-red)
 * Reflection-Tuning: An Approach for Data Recycling [[Paper]](https://arxiv.org/abs/2310.11716) ![](https://img.shields.io/badge/arXiv-2023.10-red)
 * Learning From Mistakes Makes LLM Better Reasoner [[Paper]](https://arxiv.org/abs/2310.20689) ![](https://img.shields.io/badge/arXiv-2023.10-red)
