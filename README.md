@@ -65,6 +65,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 * Unlock-Deepseek [[Blog]](https://mp.weixin.qq.com/s/Z7P61IV3n4XYeC0Et_fvwg) ![](https://img.shields.io/badge/blog-2025.02-red)
 * Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning [[Paper]](https://arxiv.org/abs/2502.14768) ![](https://img.shields.io/badge/arXiv-2025.02-red)
 * LLM-R1 [[github]](https://github.com/TideDra/lmm-r1) ![](https://img.shields.io/badge/github-2025.02-red)
+* Qwen3: Think Deeper, Act Faster [[Paper]](https://arxiv.org/abs/2505.09388) ![](https://img.shields.io/badge/arXiv-2025.05-red)
 ## Part 2: Process Reward Models
 
 * Solving Math Word Problems with Process and Outcome-Based Feedback [[Paper]](https://arxiv.org/abs/2211.14275) ![](https://img.shields.io/badge/arXiv-2022.11-red)
