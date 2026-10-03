@@ -97,6 +97,7 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 
 ## Part 3: Reinforcement Learning
 
+* TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2509.23140) ![](https://img.shields.io/badge/EMNLP-2026-blue)
 * Improve Vision Language Model Chain-of-thought Reasoning [[Paper]](https://arxiv.org/abs/2410.16198) ![](https://img.shields.io/badge/arXiv-2024.10-red)
 * Does RLHF Scale? Exploring the Impacts From Data, Model, and Method [[Paper]](https://arxiv.org/abs/2412.06000) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Offline Reinforcement Learning for LLM Multi-Step Reasoning [[Paper]](https://arxiv.org/abs/2412.16145) ![](https://img.shields.io/badge/arXiv-2024.12-red)
