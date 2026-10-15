@@ -136,6 +136,8 @@ The recent timeline of reasoning LLMs, covering core methods and the release of 
 *  MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning [[Paper]](https://arxiv.org/abs/2504.10160) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 *  VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[Paper]](https://arxiv.org/abs/2503.07523) ![](https://img.shields.io/badge/arXiv-2025.04-red)
 
+* Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning [[Paper]](https://arxiv.org/abs/2601.23224) [[Code]](https://github.com/MCG-NJU/Video-o3) ![](https://img.shields.io/badge/ICML-2026-blue)
+
 ## Part 4: MCTS/Tree Search
 
 * Reasoning with Language Model is Planning with World Model [[Paper]](https://aclanthology.org/2023.emnlp-main.507/) ![](https://img.shields.io/badge/EMNLP-2023-blue)

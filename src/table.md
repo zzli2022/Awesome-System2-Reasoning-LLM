@@ -28,6 +28,7 @@
 ## Part 3: Reinforcement Learning
 |Title|Venue|Date|
 |:---|:---|:---|
+|[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224)|ICML|2026-01|
 |[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)|arXiv|2025-02|
 |[Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651)|arXiv|2025-01|
 |[Challenges in Ensuring AI Safety in DeepSeek-R1 Models: The Shortcomings of Reinforcement Learning Strategies](https://arxiv.org/abs/2501.17030)|arXiv|2025-01|

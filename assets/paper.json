@@ -152,6 +152,13 @@
     ],
     "Part 3: Reinforcement Learning": [
         {
+            "paper": "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+            "link": "https://arxiv.org/abs/2601.23224",
+            "venue": "ICML",
+            "date": "2026-01",
+            "label": "zeng2026videoo3"
+        },
+        {
             "paper": "Offline Reinforcement Learning for LLM Multi-Step Reasoning",
             "link": "https://arxiv.org/abs/2412.16145",
             "venue": "arXiv",
